@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Poppins:400,500,600,700);
 
 
+
 /* ---- General ---- */
 
 html,
@@ -52,6 +53,10 @@ a {
 }
 
 
+
+
+
+
 /* ---- typography ---- */
 
 h1 {
@@ -67,6 +72,11 @@ h3 {
 h5 {
     color: #F7922A;
 }
+
+
+
+
+
 
 /* ---- preloader ---- */
 
@@ -141,8 +151,10 @@ h5 {
 }
 
 
-/* headr
-==================================================*/
+
+
+
+/* ---- headr ---- */
 
 .box-header {
     position: absolute;
@@ -415,3 +427,4 @@ b i:last-child {
     color: #999;
     line-height: 1.7
 }
+
